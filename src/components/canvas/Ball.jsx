@@ -4,6 +4,8 @@ import {
   Decal, Float, OrbitControls, Preload, useTexture
 } from '@react-three/drei'
 
+import Loader from '../Loader';
+
 import CanvasLoader from '../Loader';
 
 const Ball = (props) => {
